@@ -1,0 +1,37 @@
+*****************************
+Name:        Naga Assefa
+Class:       CS30S
+Assignment:  Review Assignment
+*****************************
+
+Bianary number =  0101101100000111 
+ Decimal number =    23303 
+ 
+Bianary number =  0101010000101011 
+ Decimal number =    21547 
+ 
+Bianary number =  1001010100111110 
+ Decimal number =    38206 
+ 
+Bianary number =  0000010010000110 
+ Decimal number =     1158 
+ 
+Bianary number =  1000011110000000 
+ Decimal number =    34688 
+ 
+Bianary number =  0100101010101001 
+ Decimal number =    19113 
+ 
+Bianary number =  0011100111100001 
+ Decimal number =    14817 
+ 
+Bianary number =  1011000101011110 
+ Decimal number =    45406 
+ 
+Bianary number =  0001100101110110 
+ Decimal number =     6518 
+ 
+Bianary number =  1000111001111110 
+ Decimal number =    36478 
+ 
+end of processing
