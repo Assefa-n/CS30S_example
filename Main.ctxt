@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ Programmer\:\ \ \ \ \ \ Naga\ Assefa\n\ Class\:\ \ \ \ \ \ \ \ \ \ \ CS30S\n\n\ Assignment\:\ \ \ \ \ \ OOP\ Lab\ 1\ Driver\n\n\ Description\:\ \ \ \ \ add\ your\ code\ as\ directed\ by\ the\ instructions\ and\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ comments\ to\ complete\ the\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ driver\ code\ for\ this\ lab.\ Note\ that\ you\ will\ also\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ have\ to\ write\ the\ class\ code\ for\ the\ Product\ class\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
